@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+    padding: 20px 100px;
+}
+input {
+  padding: 6px 10px;
+  outline: none;
+  width: 100%;
+  font-size: 3vw;
+  border: 1px solid #dadada;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+button{
+    padding: 6px 20px;
+    font-weight: 700;
+    font-size: 3vw;
+    color: blue;
+    cursor: pointer;
+    border-radius: 10px;
+  }
